@@ -24,3 +24,5 @@ iluminación, ya sea natural o artificial. Cuenta también con un sistema Web de
 que permite al usuario tomar muestras, cambiar las condiciones de iluminación artificial y comparar
 los valores experimentales con los parámetros obtenidos de forma teórica a partir de algoritmos de
 cálculo ya desarrollados por diferentes investigadores.
+
+La memoria completa del proyecto se encuestra en el archivo TFM_ElenaAlvarezCastro.pdf.
