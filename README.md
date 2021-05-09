@@ -1,4 +1,4 @@
-# Trabajo-Fin-de-Master
+# Sistema inalámbrico de toma de muestras de un panel fotovoltaico y su modelado teórico bajo diferentes condiciones de iluminación artificial y natural
 
 Máster en Ingeniería Electrónica Indsutrial
 curso 2019/2020
